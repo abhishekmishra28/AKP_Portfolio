@@ -47,7 +47,7 @@ const AboutSection = () => {
           >
             <h3 className="text-xl font-heading font-semibold text-foreground mb-4">Professional Summary</h3>
             <p className="text-muted-foreground leading-relaxed mb-8">
-              Civil Engineering student at Lovely Professional University (CGPA: 7.05),
+              Civil Engineering student at Lovely Professional University (CGPA: 7.30),
               passionate about infrastructure development, structural systems, and site execution.
               With hands-on internship experience at Indian Railways and construction projects,
               I bring practical knowledge of site supervision, structural works, and project management.

@@ -5,7 +5,7 @@ import { Quote } from "lucide-react";
 const testimonials = [
   {
     name: "Vikash Mishra",
-    role: "Executive Engineer, Indian Railways",
+    role: "Executive Engineer, Indian Railways, Ranchi",
     text: "Ayush showed remarkable dedication during his internship. His understanding of structural works and willingness to learn on-site procedures impressed the entire team. He handled casting and finishing works with professionalism beyond his years.",
   },
   {
